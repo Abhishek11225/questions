@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Abhishek11225/questions/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Abhishek11225/questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Abhishek11225/questions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abhishek11225/questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -18,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/Abhishek11225/questions/tree/master/0904-fruit-into-baskets) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abhishek11225/questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/Abhishek11225/questions/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Abhishek11225/questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Abhishek11225/questions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abhishek11225/questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
 | ------- |
