@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Abhishek11225/questions/tree/master/0069-sqrtx) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Abhishek11225/questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Abhishek11225/questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
@@ -84,5 +85,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Abhishek11225/questions/tree/master/0069-sqrtx) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhishek11225/questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Abhishek11225/questions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
