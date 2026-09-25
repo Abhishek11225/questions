@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Abhishek11225/questions/tree/master/0136-single-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhishek11225/questions/tree/master/0643-maximum-average-subarray-i) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Abhishek11225/questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/Abhishek11225/questions/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Abhishek11225/questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Abhishek11225/questions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Abhishek11225/questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Abhishek11225/questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Abhishek11225/questions/tree/master/0187-repeated-dna-sequences) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Abhishek11225/questions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
