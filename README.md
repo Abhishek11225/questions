@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Abhishek11225/questions/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/Abhishek11225/questions/tree/master/0136-single-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhishek11225/questions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Abhishek11225/questions/tree/master/0724-find-pivot-index) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Abhishek11225/questions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Abhishek11225/questions/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/Abhishek11225/questions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Abhishek11225/questions/tree/master/0367-valid-perfect-square) |
