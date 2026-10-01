@@ -26,8 +26,11 @@ class Solution {
         long totalh=0;
         for(int j=0;j<piles.length;j++){
             totalh+=(piles[j]+mid-1)/mid;
-           
+            
         }
-        return totalh<=h;
+        if(totalh<=h){
+            return true;
+        }
+        return false;
     }
 }
