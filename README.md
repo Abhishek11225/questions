@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Abhishek11225/questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Abhishek11225/questions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Abhishek11225/questions/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/Abhishek11225/questions/tree/master/0172-factorial-trailing-zeroes) |
 | [0367-valid-perfect-square](https://github.com/Abhishek11225/questions/tree/master/0367-valid-perfect-square) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhishek11225/questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Newton's Method
