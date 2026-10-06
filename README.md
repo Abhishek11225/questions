@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhishek11225/questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Abhishek11225/questions/tree/master/0013-roman-to-integer) |
 | [0187-repeated-dna-sequences](https://github.com/Abhishek11225/questions/tree/master/0187-repeated-dna-sequences) |
 | [0904-fruit-into-baskets](https://github.com/Abhishek11225/questions/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abhishek11225/questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhishek11225/questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Abhishek11225/questions/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/Abhishek11225/questions/tree/master/0013-roman-to-integer) |
 | [0187-repeated-dna-sequences](https://github.com/Abhishek11225/questions/tree/master/0187-repeated-dna-sequences) |
 ## Rolling Hash
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Abhishek11225/questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Abhishek11225/questions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Abhishek11225/questions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Abhishek11225/questions/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Abhishek11225/questions/tree/master/0172-factorial-trailing-zeroes) |
 | [0367-valid-perfect-square](https://github.com/Abhishek11225/questions/tree/master/0367-valid-perfect-square) |
