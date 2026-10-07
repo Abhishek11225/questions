@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhishek11225/questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/Abhishek11225/questions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhishek11225/questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0204-count-primes](https://github.com/Abhishek11225/questions/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/Abhishek11225/questions/tree/master/0239-sliding-window-maximum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhishek11225/questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhishek11225/questions/tree/master/0643-maximum-average-subarray-i) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Abhishek11225/questions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Abhishek11225/questions/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Abhishek11225/questions/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/Abhishek11225/questions/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/Abhishek11225/questions/tree/master/0367-valid-perfect-square) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhishek11225/questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Newton's Method
@@ -154,4 +156,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhishek11225/questions/tree/master/0004-median-of-two-sorted-arrays) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Abhishek11225/questions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Abhishek11225/questions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Abhishek11225/questions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Abhishek11225/questions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Abhishek11225/questions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
