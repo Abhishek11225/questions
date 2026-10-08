@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Abhishek11225/questions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhishek11225/questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/Abhishek11225/questions/tree/master/0136-single-number) |
+| [0149-max-points-on-a-line](https://github.com/Abhishek11225/questions/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhishek11225/questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Abhishek11225/questions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Abhishek11225/questions/tree/master/0204-count-primes) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhishek11225/questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Abhishek11225/questions/tree/master/0013-roman-to-integer) |
+| [0149-max-points-on-a-line](https://github.com/Abhishek11225/questions/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Abhishek11225/questions/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Abhishek11225/questions/tree/master/0187-repeated-dna-sequences) |
 | [0904-fruit-into-baskets](https://github.com/Abhishek11225/questions/tree/master/0904-fruit-into-baskets) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Abhishek11225/questions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Abhishek11225/questions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Abhishek11225/questions/tree/master/0069-sqrtx) |
+| [0149-max-points-on-a-line](https://github.com/Abhishek11225/questions/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/Abhishek11225/questions/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Abhishek11225/questions/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/Abhishek11225/questions/tree/master/0367-valid-perfect-square) |
@@ -188,4 +191,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abhishek11225/questions/tree/master/0169-majority-element) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Abhishek11225/questions/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Abhishek11225/questions/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Abhishek11225/questions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
