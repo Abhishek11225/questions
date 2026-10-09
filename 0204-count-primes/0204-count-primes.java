@@ -31,7 +31,7 @@ class Solution {
 //             }
 //         }
 //         return (int)count;
- if (n < 2) {
+    if (n < 2) {
             return 0;
         }
 
