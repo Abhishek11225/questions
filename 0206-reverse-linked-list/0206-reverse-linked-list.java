@@ -10,16 +10,46 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
+        // ListNode curr=head;
+        // ListNode prev=null;
+        // while(curr!=null){
+        //     ListNode forward=curr.next;
+        //     curr.next=prev;
+        //     prev=curr;
+        //     curr=forward;
+
+
+        // }
+        // return head;
+         if (head == null) {
+            return null;
+        }
+
         ListNode curr=head;
         ListNode prev=null;
-        while(curr!=null){
-            ListNode forward=curr.next;
-            curr.next=prev;
-            prev=curr;
-            curr=forward;
+        ListNode forward=curr.next;
+        
 
+        ListNode ans = helper(head, curr, prev, forward);
+return ans;
+       
 
-        }
-        return prev;
     }
+    static ListNode helper(ListNode head,ListNode curr,ListNode prev,ListNode forward){
+        if(curr==null){
+            return prev;
+        }
+        curr.next=prev;
+        prev=curr;
+        curr=forward;
+        
+        
+
+     if (curr != null) {
+            forward = curr.next;
+        }
+       return  helper(head,curr,prev,forward);
+    
+}
+
 }
