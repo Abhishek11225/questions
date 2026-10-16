@@ -31,21 +31,28 @@ class Solution {
 
 //         }
 //         return turtle;
+// ListNode fast = head;
+// ListNode slow = head;
+
+// while (fast != null) {
+//     fast = fast.next;
+
+//     if (fast != null) {
+//         fast = fast.next;
+//         slow = slow.next;
+//     }
+
+    
+// }
+
+// return slow;
 ListNode fast = head;
 ListNode slow = head;
 
-while (fast != null) {
-    fast = fast.next;
-
-    if (fast != null) {
-        fast = fast.next;
-        slow = slow.next;
-    }
-
-    
+while (fast != null&&fast.next!=null) {
+    fast=fast.next.next;
+    slow=slow.next; 
 }
-
 return slow;
-
 }
 }
