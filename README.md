@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Abhishek11225/questions/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/Abhishek11225/questions/tree/master/0239-sliding-window-maximum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhishek11225/questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Abhishek11225/questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhishek11225/questions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Abhishek11225/questions/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Abhishek11225/questions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Abhishek11225/questions/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Abhishek11225/questions/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Abhishek11225/questions/tree/master/0242-valid-anagram) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Abhishek11225/questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0904-fruit-into-baskets](https://github.com/Abhishek11225/questions/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abhishek11225/questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhishek11225/questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Abhishek11225/questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/Abhishek11225/questions/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Abhishek11225/questions/tree/master/0242-valid-anagram) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Abhishek11225/questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhishek11225/questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Rolling Hash
 |  |
