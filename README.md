@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Abhishek11225/questions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Abhishek11225/questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Abhishek11225/questions/tree/master/0242-valid-anagram) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Abhishek11225/questions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhishek11225/questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Abhishek11225/questions/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Abhishek11225/questions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Abhishek11225/questions/tree/master/0169-majority-element) |
 ## Enumeration
 |  |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Abhishek11225/questions/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Abhishek11225/questions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Abhishek11225/questions/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Abhishek11225/questions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Abhishek11225/questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Abhishek11225/questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Abhishek11225/questions/tree/master/0234-palindrome-linked-list) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhishek11225/questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Abhishek11225/questions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Abhishek11225/questions/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Abhishek11225/questions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Abhishek11225/questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Abhishek11225/questions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Abhishek11225/questions/tree/master/0876-middle-of-the-linked-list) |
@@ -276,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Abhishek11225/questions/tree/master/2181-merge-nodes-in-between-zeros) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Abhishek11225/questions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
