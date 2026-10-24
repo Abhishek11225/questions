@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Abhishek11225/questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Abhishek11225/questions/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Abhishek11225/questions/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/Abhishek11225/questions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Abhishek11225/questions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Abhishek11225/questions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Abhishek11225/questions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Abhishek11225/questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhishek11225/questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Abhishek11225/questions/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/Abhishek11225/questions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Abhishek11225/questions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Abhishek11225/questions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Abhishek11225/questions/tree/master/0160-intersection-of-two-linked-lists) |
