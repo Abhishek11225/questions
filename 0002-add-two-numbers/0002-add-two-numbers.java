@@ -10,6 +10,31 @@
  */
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+
+
+
+        // agar l1 aur l2 null nih toh sum m add  kro
+        // sum ka modulo temp m add kro
+        // aur sum/10 kro taki carry nikal aayer 
+        // starting m sum ko carry k barabar rakh lo]
+        // taki agar carry ho toh wo carry ke sath agla step calculate kre
+
+        // agar ek node chota h toh dure node ka val sum m dalo
+        // then headN return kr lo
+        // easy pese
+
+
+        // abhi samj aaya gya h acche se isi liye easy pese likehe h 
+        // depression m mt jana
+
+
+
+
+
+
+
+
+
          ListNode dummy=new  ListNode (-1);
           ListNode temp=dummy;
            ListNode headN=dummy;
