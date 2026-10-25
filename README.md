@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Abhishek11225/questions/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/Abhishek11225/questions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Abhishek11225/questions/tree/master/0239-sliding-window-maximum) |
+| [0349-intersection-of-two-arrays](https://github.com/Abhishek11225/questions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhishek11225/questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Abhishek11225/questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhishek11225/questions/tree/master/0643-maximum-average-subarray-i) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Abhishek11225/questions/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Abhishek11225/questions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Abhishek11225/questions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Abhishek11225/questions/tree/master/0349-intersection-of-two-arrays) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Abhishek11225/questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0904-fruit-into-baskets](https://github.com/Abhishek11225/questions/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abhishek11225/questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhishek11225/questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhishek11225/questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/Abhishek11225/questions/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/Abhishek11225/questions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Abhishek11225/questions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Abhishek11225/questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhishek11225/questions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Abhishek11225/questions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Abhishek11225/questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Abhishek11225/questions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Abhishek11225/questions/tree/master/0349-intersection-of-two-arrays) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Abhishek11225/questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Abhishek11225/questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
@@ -277,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Abhishek11225/questions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Abhishek11225/questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Abhishek11225/questions/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/Abhishek11225/questions/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/Abhishek11225/questions/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Abhishek11225/questions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Stack
