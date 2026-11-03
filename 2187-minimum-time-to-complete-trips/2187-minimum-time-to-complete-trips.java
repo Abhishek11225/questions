@@ -23,10 +23,11 @@ class Solution {
         long sum=0;
         for(int j=0;j<time.length;j++){
             sum+=mid/time[j];
-            if(sum>=totalTrips){
+            
+        }
+        if(sum>=totalTrips){
                 return true;
             }
-        }
         return false;
     }
 }
