@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhishek11225/questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Abhishek11225/questions/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/Abhishek11225/questions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Abhishek11225/questions/tree/master/0020-valid-parentheses) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Abhishek11225/questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/Abhishek11225/questions/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Abhishek11225/questions/tree/master/0242-valid-anagram) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Abhishek11225/questions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Abhishek11225/questions/tree/master/0234-palindrome-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Abhishek11225/questions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -355,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Abhishek11225/questions/tree/master/0347-top-k-frequent-elements) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Abhishek11225/questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
