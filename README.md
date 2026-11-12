@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Abhishek11225/questions/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/Abhishek11225/questions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Abhishek11225/questions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Abhishek11225/questions/tree/master/0032-longest-valid-parentheses) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Abhishek11225/questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/Abhishek11225/questions/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Abhishek11225/questions/tree/master/0242-valid-anagram) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Abhishek11225/questions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Abhishek11225/questions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhishek11225/questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Abhishek11225/questions/tree/master/0152-maximum-product-subarray) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhishek11225/questions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Abhishek11225/questions/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Abhishek11225/questions/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhishek11225/questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Abhishek11225/questions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhishek11225/questions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Abhishek11225/questions/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhishek11225/questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Abhishek11225/questions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
