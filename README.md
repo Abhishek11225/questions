@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Abhishek11225/questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhishek11225/questions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Abhishek11225/questions/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Abhishek11225/questions/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Abhishek11225/questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Abhishek11225/questions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Abhishek11225/questions/tree/master/0904-fruit-into-baskets) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Abhishek11225/questions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Abhishek11225/questions/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Abhishek11225/questions/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/Abhishek11225/questions/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhishek11225/questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Abhishek11225/questions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Abhishek11225/questions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -374,4 +376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Abhishek11225/questions/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhishek11225/questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Abhishek11225/questions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Abhishek11225/questions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
