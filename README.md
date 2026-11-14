@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Abhishek11225/questions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Abhishek11225/questions/tree/master/0410-split-array-largest-sum) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhishek11225/questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Abhishek11225/questions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Abhishek11225/questions/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Abhishek11225/questions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Abhishek11225/questions/tree/master/0389-find-the-difference) |
+| [0402-remove-k-digits](https://github.com/Abhishek11225/questions/tree/master/0402-remove-k-digits) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Abhishek11225/questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Abhishek11225/questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhishek11225/questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Abhishek11225/questions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Abhishek11225/questions/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Abhishek11225/questions/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Abhishek11225/questions/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Abhishek11225/questions/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhishek11225/questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Abhishek11225/questions/tree/master/1019-next-greater-node-in-linked-list) |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Abhishek11225/questions/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Abhishek11225/questions/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Abhishek11225/questions/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
