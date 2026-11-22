@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Abhishek11225/questions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Abhishek11225/questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhishek11225/questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1472-design-browser-history](https://github.com/Abhishek11225/questions/tree/master/1472-design-browser-history) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhishek11225/questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Abhishek11225/questions/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Abhishek11225/questions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/Abhishek11225/questions/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/Abhishek11225/questions/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Abhishek11225/questions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1472-design-browser-history](https://github.com/Abhishek11225/questions/tree/master/1472-design-browser-history) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Abhishek11225/questions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Abhishek11225/questions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Abhishek11225/questions/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Abhishek11225/questions/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhishek11225/questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Abhishek11225/questions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1472-design-browser-history](https://github.com/Abhishek11225/questions/tree/master/1472-design-browser-history) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Abhishek11225/questions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Abhishek11225/questions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Abhishek11225/questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1472-design-browser-history](https://github.com/Abhishek11225/questions/tree/master/1472-design-browser-history) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -388,4 +392,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Abhishek11225/questions/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Abhishek11225/questions/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Abhishek11225/questions/tree/master/1019-next-greater-node-in-linked-list) |
+## Design
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Abhishek11225/questions/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Abhishek11225/questions/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
