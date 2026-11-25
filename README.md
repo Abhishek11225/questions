@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Abhishek11225/questions/tree/master/0402-remove-k-digits) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Abhishek11225/questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Abhishek11225/questions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0844-backspace-string-compare](https://github.com/Abhishek11225/questions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhishek11225/questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhishek11225/questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/Abhishek11225/questions/tree/master/1544-make-the-string-great) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Abhishek11225/questions/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhishek11225/questions/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Abhishek11225/questions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0844-backspace-string-compare](https://github.com/Abhishek11225/questions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Abhishek11225/questions/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhishek11225/questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Abhishek11225/questions/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Abhishek11225/questions/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Abhishek11225/questions/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Abhishek11225/questions/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/Abhishek11225/questions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhishek11225/questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Abhishek11225/questions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1472-design-browser-history](https://github.com/Abhishek11225/questions/tree/master/1472-design-browser-history) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/Abhishek11225/questions/tree/master/0844-backspace-string-compare) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Abhishek11225/questions/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Merge Sort
 |  |
