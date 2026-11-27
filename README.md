@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/Abhishek11225/questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Abhishek11225/questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2057-smallest-index-with-equal-value](https://github.com/Abhishek11225/questions/tree/master/2057-smallest-index-with-equal-value) |
+| [2104-sum-of-subarray-ranges](https://github.com/Abhishek11225/questions/tree/master/2104-sum-of-subarray-ranges) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Abhishek11225/questions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Abhishek11225/questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abhishek11225/questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/Abhishek11225/questions/tree/master/1472-design-browser-history) |
 | [1544-make-the-string-great](https://github.com/Abhishek11225/questions/tree/master/1544-make-the-string-great) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Abhishek11225/questions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2104-sum-of-subarray-ranges](https://github.com/Abhishek11225/questions/tree/master/2104-sum-of-subarray-ranges) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Abhishek11225/questions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Abhishek11225/questions/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Abhishek11225/questions/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Abhishek11225/questions/tree/master/1019-next-greater-node-in-linked-list) |
+| [2104-sum-of-subarray-ranges](https://github.com/Abhishek11225/questions/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
