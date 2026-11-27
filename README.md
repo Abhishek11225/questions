@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Abhishek11225/questions/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/Abhishek11225/questions/tree/master/0367-valid-perfect-square) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Abhishek11225/questions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3360-stone-removal-game](https://github.com/Abhishek11225/questions/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhishek11225/questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Newton's Method
 |  |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Abhishek11225/questions/tree/master/0844-backspace-string-compare) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Abhishek11225/questions/tree/master/2181-merge-nodes-in-between-zeros) |
+| [3360-stone-removal-game](https://github.com/Abhishek11225/questions/tree/master/3360-stone-removal-game) |
 ## Merge Sort
 |  |
 | ------- |
