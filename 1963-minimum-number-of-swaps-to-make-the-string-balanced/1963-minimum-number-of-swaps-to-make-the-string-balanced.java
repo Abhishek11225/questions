@@ -1,21 +1,38 @@
 class Solution {
     public int minSwaps(String s) {
-        int count=0;
-        Deque<Character>st=new ArrayDeque<>();
+        // int count=0;
+        // Deque<Character>st=new ArrayDeque<>();
 
-        for(char ch:s.toCharArray()){
+        // for(char ch:s.toCharArray()){
+        //     if(ch=='['){
+        //         st.push(ch);
+        //     }
+        //     else{
+        //         if(!st.isEmpty()&&ch==']'){
+        //             st.pop();
+        //         }
+        //         else if(st.isEmpty()&&ch==']'){
+        //             count++;
+        //         }
+        //     }
+        // }
+        // return (count+1)/2;
+
+        int open=0;
+
+        for( char ch:s.toCharArray()){
             if(ch=='['){
-                st.push(ch);
+                open++;
             }
             else{
-                if(!st.isEmpty()&&ch==']'){
-                    st.pop();
+                if(open>0&&ch==']'){
+                    open--;
                 }
-                else if(st.isEmpty()&&ch==']'){
-                    count++;
+                else{
+                    open++;
                 }
             }
         }
-        return (count+1)/2;
+        return (open+1)/2;
     }
 }
